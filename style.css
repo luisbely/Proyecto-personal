@@ -1,0 +1,69 @@
+.text-purple{
+    background-color: #9539eb !important;
+}
+
+.bt{
+    background-color: #9539eb !important;
+}
+
+.bg-purple{
+    background-color: #9539eb !important;
+}
+
+.imagen{
+    width: 200px;
+    height: 200px;
+    background: url("./img/belyy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+
+.whatsApp{
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.llamada{
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gmail{
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cartera{
+        display: flex;
+        display: center;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        
+}
+
+.fuente{
+    font-family: cursive;
+}
+
+.imagen1{
+    height: 300px;
+    width: 300px;
+}
+
+.imagen2{
+    height: 300px;
+    width: 300px;
+}
+
+.imagen3{
+    height: 300px;
+    width: 300px;
+}
